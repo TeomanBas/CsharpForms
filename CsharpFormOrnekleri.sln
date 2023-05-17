@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Maskedtextbox-Picturebox-Datetimepicker", "2-Maskedtextbox-Picturebox-Datetimepicker\2-Maskedtextbox-Picturebox-Datetimepicker.csproj", "{624D5C8E-9EF8-4A9F-91DE-F753C6F73162}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OrnekForm1", "1-OrnekForm1\1-OrnekForm1.csproj", "{AA29DD12-3319-4608-81C3-44A6E1D8C014}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-Checkbox-Radiobutton-Richtexbox", "3-Checkbox-Radiobutton-Richtexbox\3-Checkbox-Radiobutton-Richtexbox.csproj", "{366F4771-A918-44B0-AB38-71F49F874CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-AracUygulamasi", "4-AracUygulamasi\4-AracUygulamasi.csproj", "{92FEF0CF-2C57-4EC9-9A5F-B996D15C4A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624D5C8E-9EF8-4A9F-91DE-F753C6F73162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624D5C8E-9EF8-4A9F-91DE-F753C6F73162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624D5C8E-9EF8-4A9F-91DE-F753C6F73162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624D5C8E-9EF8-4A9F-91DE-F753C6F73162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA29DD12-3319-4608-81C3-44A6E1D8C014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA29DD12-3319-4608-81C3-44A6E1D8C014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA29DD12-3319-4608-81C3-44A6E1D8C014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA29DD12-3319-4608-81C3-44A6E1D8C014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{366F4771-A918-44B0-AB38-71F49F874CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366F4771-A918-44B0-AB38-71F49F874CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366F4771-A918-44B0-AB38-71F49F874CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366F4771-A918-44B0-AB38-71F49F874CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FEF0CF-2C57-4EC9-9A5F-B996D15C4A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FEF0CF-2C57-4EC9-9A5F-B996D15C4A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FEF0CF-2C57-4EC9-9A5F-B996D15C4A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FEF0CF-2C57-4EC9-9A5F-B996D15C4A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D3B2C9-BA4C-4F7E-9FA4-5FA378734AA3}
+	EndGlobalSection
+EndGlobal
